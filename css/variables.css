@@ -1,0 +1,12 @@
+:root {
+  --font-family:"Open Sans", sans-serif;
+  --text: #333;
+  --background: #fafafa;
+  --hint:#999 ;
+  --border: #ddd ;
+  --primary: #0a3d62 ;
+  --dark: #3c6382;
+  --light: #60a3bc ;
+}
+
+/*# sourceMappingURL=variables.css.map */
